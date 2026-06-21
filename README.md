@@ -153,6 +153,7 @@ The highest-paying skill categories command significant premiums over the baseli
 ## Query Analysis & Insights
 
 ### Q1: Top-Paying Remote Data Analyst Jobs
+**[top_paying_jobs.sql](\Queries\top_paying_jobs.sql)**
 
 **Purpose:** Identify the salary ceiling for remote Data Analyst positions.
 
@@ -180,6 +181,7 @@ The highest-paying skill categories command significant premiums over the baseli
 ---
 
 ### Q2: Skills Required for Top-Paying Positions
+**[top_paying_job_skills.sql](\Queries\top_paying_job_skills.sql)**
 
 **Purpose:** Map which skills are actually required by employers offering premium compensation.
 
@@ -205,6 +207,7 @@ The highest-paying skill categories command significant premiums over the baseli
 ---
 
 ### Q3: Top In-Demand Skills
+**[top_demanded__skills.sql](\Queries\top_demanded__skills.sql)**
 
 **Purpose:** Quantify which skills appear most frequently across all Data Analyst job postings.
 
@@ -228,6 +231,7 @@ The highest-paying skill categories command significant premiums over the baseli
 ---
 
 ### Q4: Highest-Paying Skills
+**[top_paying_skills.sql](\Queries\top_paying_skills.sql)**
 
 **Purpose:** Identify which individual skills command the highest average salary.
 
@@ -256,6 +260,7 @@ The highest-paying skill categories command significant premiums over the baseli
 ---
 
 ### Q5: Optimal Skills (High Demand + High Salary)
+**[optimal_skills.sql](\Queries\optimal_skills.sql)**
 
 **Purpose:** Build a composite framework identifying skills that offer both strong employability and strong compensation.
 
