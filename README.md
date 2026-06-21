@@ -350,11 +350,11 @@ data-analyst-job-market-insights/
 ├── README.md
 │
 ├── queries/
-│   ├── top_paying_jobs.sql               # Q1: Highest-paying positions
-│   ├── top_paying_job_skills.sql         # Q2: Skills for top jobs
-│   ├── top_demanded__skills.sql          # Q3: Most in-demand skills
-│   ├── top_paying_skills.sql             # Q4: Highest-paying skills
-│   └── optimal_skills.sql                # Q5: Optimal demand-salary skills
+│   ├── top_paying_jobs.sql
+│   ├── top_paying_job_skills.sql
+│   ├── top_demanded__skills.sql
+│   ├── top_paying_skills.sql
+│   └── optimal_skills.sql
 │
 ├── results/
 │   ├── top_paying_job_skills.csv
