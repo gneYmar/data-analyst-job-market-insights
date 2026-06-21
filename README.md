@@ -1,14 +1,21 @@
+<div align="center">
+
 # Data Analyst Job Market Insights
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=amazondocumentdb&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?logo=plotly&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?logo=amazondocumentdb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?logo=plotly&logoColor=white" />
+   <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white" />
+   <img src="https://img.shields.io/badge/Status-Complete-brightgreen" />
+</p>
 
-> A comprehensive analytics project exploring the Data Analyst job market through SQL-driven insights, statistical analysis, and production-quality visualizations. Based on real-world job postings data.
+<p align="center">
+  A comprehensive analytics project exploring the Data Analyst job market through SQL-driven insights, statistical analysis, and production-quality visualizations. Based on real-world job postings data.
+</p>
+</div>
 
 ---
 
